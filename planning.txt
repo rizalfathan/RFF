@@ -5,3 +5,5 @@
 - ANGULAR
 - AMD
 - INTEL
+- GRAVITY
+- ZERO
